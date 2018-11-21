@@ -8,7 +8,7 @@ foobar = 0.2 # Det här är en float
 
 print(foo, bar) # Printar ut värdet av variablern foo och bar
 
-foo_bar = str(bar) # Det här konverterar bar/12 till en string
+foo_bar = str(bar) # Det här konverterar bar/98 till en string
 
 print(foo_bar)
 
